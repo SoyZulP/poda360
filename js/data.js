@@ -1,5 +1,5 @@
 /**
- * PODA 360° La Dorada - Datos Georreferenciados Oficiales y Parámetros Técnicos
+ * YUMA RAÍZ La Dorada - Datos Georreferenciados Oficiales y Parámetros Técnicos
  * Reto 4: Manejo ecológico de residuos de poda urbana - Rally Latinoamericano 2026
  * Ubicaciones reales verificadas de La Dorada (Caldas)
  * Sin emojis - Uso estricto de Colombia Icons

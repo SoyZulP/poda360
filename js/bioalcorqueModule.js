@@ -1,5 +1,5 @@
 /**
- * PODA 360° La Dorada - Módulo Bioalcorque 360° y Laboratorio Didáctico
+ * YUMA RAÍZ La Dorada - Módulo Bioalcorque 360° y Laboratorio Didáctico
  * Simulación experimental comparativa y Ficha de Trazabilidad QR
  * Sin emojis - Uso estricto de Colombia Icons
  */

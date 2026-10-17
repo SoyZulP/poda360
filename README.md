@@ -1,4 +1,4 @@
-# 🌿 PODA 360° La Dorada
+# 🌿 YUMA RAÍZ La Dorada
 
 > **Plataforma Territorial de Economía Circular y Resiliencia Térmica Urbana**  
 > **Rally Latinoamericano de Innovación 2026** · **Reto 4:** Manejo ecológico de residuos de poda urbana y biomasa vegetal  

@@ -1,5 +1,5 @@
 /**
- * PODA 360° La Dorada - Motor de Decisión Ruta Climática 360°
+ * YUMA RAÍZ La Dorada - Motor de Decisión Ruta Climática 360°
  * Algoritmo de valorización en cascada y balance económico frente al relleno La Doradita
  * Sin emojis - Uso estricto de Colombia Icons
  */

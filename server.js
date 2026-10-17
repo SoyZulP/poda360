@@ -1,5 +1,5 @@
 /**
- * PODA 360° La Dorada - Servidor HTTP Local
+ * YUMA RAÍZ La Dorada - Servidor HTTP Local
  * Reto 4 Rally Latinoamericano de Innovación 2026
  */
 
@@ -59,5 +59,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log(`[PODA 360°] Servidor ejecutándose en http://localhost:${PORT}`);
+  console.log(`[YUMA RAÍZ] Servidor ejecutándose en http://localhost:${PORT}`);
 });

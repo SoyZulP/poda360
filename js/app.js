@@ -1,5 +1,5 @@
 /**
- * PODA 360° La Dorada - Aplicación Principal y Controlador General
+ * YUMA RAÍZ La Dorada - Aplicación Principal y Controlador General
  * Reto 4 - Rally Latinoamericano de Innovación 2026
  * Sin emojis - Uso estricto de Colombia Icons
  */
@@ -25,7 +25,7 @@ const App = {
   },
 
   init() {
-    console.log('[PODA 360°] Inicializando plataforma...');
+    console.log('[YUMA RAÍZ] Inicializando plataforma...');
 
     try { ColombiaIcons.renderAll(); } catch(e) { console.warn('ColombiaIcons renderAll:', e); }
     try { if (window.MapModule) MapModule.init(); } catch(e) { console.error('MapModule.init error:', e); }

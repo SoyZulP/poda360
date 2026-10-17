@@ -1,5 +1,5 @@
 /**
- * PODA 360° La Dorada - Módulo de Mapa Interactivo
+ * YUMA RAÍZ La Dorada - Módulo de Mapa Interactivo
  * Marcadores en Gota de Agua Invertida (Teardrop Pins) con Colombia Icons
  * Delimitación geográfica estricta a La Dorada, Caldas (sin API Key)
  */
